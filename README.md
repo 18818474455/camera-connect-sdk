@@ -91,15 +91,19 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/01_·_PERFORMANCE-00D4FF?style=for-the-badge&labelColor=0A0A0A" />
+
 ## **Built for those who shoot at the speed of light.**
 
 <sub>没有等待。没有妥协。只有连接。</sub>
+
+> **▎ 重点 ·** **1.5 秒**到画面，**99.97%** 成功率，**0** 配置项。三个数字，定义行业。
 
 </div>
 
 <br/>
 
-<table width="100%">
+<table align="center" width="100%">
 <tr align="center">
 <td width="33%">
 
@@ -139,13 +143,17 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/02_·_PRODUCT-7C3AED?style=for-the-badge&labelColor=0A0A0A" />
+
 ## **看起来很简单。背后是十万小时。**
+
+> **▎ 重点 ·** 流畅 / 即时 / 可靠 / 全品牌 —— **四个产品基因，一个都不能少。**
 
 </div>
 
 <br/>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -190,15 +198,19 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/03_·_FOR_WHOM-22C55E?style=for-the-badge&labelColor=0A0A0A" />
+
 ## **三种角色。同一个秘密武器。**
 
 <sub>无论你是谁，它都让你比昨天更专业。</sub>
+
+> **▎ 重点 ·** 摄影师 / 直播方 / App 开发者 —— **三个赛道，一个答案。**
 
 </div>
 
 <br/>
 
-<table>
+<table align="center">
 <tr>
 <td width="33%" valign="top" align="center">
 
@@ -252,9 +264,13 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/04_·_SCENARIOS-FF6154?style=for-the-badge&labelColor=0A0A0A" />
+
 ## **十个改变行业的瞬间。**
 
 <sub>从婚礼现场到太空轨道，它正在重新定义"拍摄"这件事。</sub>
+
+> **▎ 重点 ·** 婚礼 / 时装 / 体育 / 直播 / 发布会 / 影楼 / 演唱会 / 地产 / 探险 / 教学 —— **每一个行业，都在被它改变。**
 
 <br/>
 
@@ -266,7 +282,7 @@
 
 <!-- 01 婚礼 -->
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td width="55%" valign="middle">
 
@@ -301,7 +317,7 @@
 
 <!-- 02 时装 -->
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td width="45%" align="center">
 
@@ -336,7 +352,7 @@
 
 <!-- 03 体育 · 真实图 -->
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td width="55%" valign="middle">
 
@@ -370,7 +386,7 @@
 
 <!-- 04 直播 -->
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td width="45%" align="center">
 
@@ -405,7 +421,7 @@
 
 <!-- 05 发布会 · 真实图 -->
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td width="55%" valign="middle">
 
@@ -440,7 +456,7 @@ PR 总监不用再追着摄影师要图。
 
 <!-- 06 影楼 · 真实图 -->
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td width="45%" align="center">
 
@@ -474,7 +490,7 @@ PR 总监不用再追着摄影师要图。
 
 <!-- 07 演唱会 -->
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td width="55%" valign="middle">
 
@@ -508,7 +524,7 @@ PR 总监不用再追着摄影师要图。
 
 <!-- 08 地产 · 真实图 -->
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td width="45%" align="center">
 
@@ -542,7 +558,7 @@ PR 总监不用再追着摄影师要图。
 
 <!-- 09 户外 -->
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td width="55%" valign="middle">
 
@@ -577,7 +593,7 @@ PR 总监不用再追着摄影师要图。
 
 <!-- 10 教学 · 真实图 -->
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td width="45%" align="center">
 
@@ -639,9 +655,13 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/05_·_GLOBAL-FFFFFF?style=for-the-badge&labelColor=0A0A0A" />
+
 ## **它，已经在世界各地。**
 
 <sub>从北京到柏林，从纽约到东京。每一秒都有一台相机，因它而连接。</sub>
+
+> **▎ 重点 ·** **12 个国家、38 座城市、6 种语言** —— 你在哪，它就在哪。
 
 <br/>
 <br/>
@@ -700,15 +720,19 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/06_·_TESTIMONIALS-FFD700?style=for-the-badge&labelColor=0A0A0A" />
+
 ## **他们已经在用。**
 
 <sub>从婚礼跟拍到时装周，从直播大厂到独立工作室。</sub>
+
+> **▎ 重点 ·** **国家地理摄影师、直播平台 CTO、米兰时装团队** —— 业内的人，最懂它的好。
 
 </div>
 
 <br/>
 
-<table>
+<table align="center">
 <tr>
 <td width="33%" valign="top">
 
@@ -773,7 +797,11 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/07_·_AWARDS-FFD700?style=for-the-badge&labelColor=0A0A0A" />
+
 ## **荣誉时刻**
+
+> **▎ 重点 ·** **App Store 编辑推荐 · Product Hunt #1 · InfoComm 金奖 · Apple 大会 Featured**
 
 <br/>
 
@@ -799,13 +827,17 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/08_·_PRESS-FFFFFF?style=for-the-badge&labelColor=0A0A0A" />
+
 ## **媒体怎么说。**
+
+> **▎ 重点 ·** _"重新定义了相机与手机的关系" · "像 Apple 一样的产品哲学"_
 
 </div>
 
 <br/>
 
-<table>
+<table align="center">
 <tr>
 <td width="25%" align="center" valign="middle">
 
@@ -844,7 +876,11 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/09_·_NUMBERS-00D4FF?style=for-the-badge&labelColor=0A0A0A" />
+
 ## **数字不会说谎。**
+
+> **▎ 重点 ·** **100K+ 装机 · 2.4M 月活 · 38M+ 累计传输 · 4.9 星好评** —— 数据是产品的另一个名字。
 
 </div>
 
@@ -896,7 +932,11 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/10_·_STORY-7C3AED?style=for-the-badge&labelColor=0A0A0A" />
+
 ## **我们为什么做这件事。**
+
+> **▎ 重点 ·** **不让任何人，为一张照片等待。** —— 这是我们做产品的初心。
 
 </div>
 
@@ -927,15 +967,19 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/11_·_ENTERPRISE-22C55E?style=for-the-badge&labelColor=0A0A0A" />
+
 ## **企业级承诺。**
 
 <sub>从一台相机，到一万台相机。它都是同一个答案。</sub>
+
+> **▎ 重点 ·** **SLA 99.9% 写进合同 · 数据零泄漏 · 专属技术经理 · 新机型 24h 适配**
 
 </div>
 
 <br/>
 
-<table>
+<table align="center">
 <tr>
 <td width="25%" valign="top" align="center">
 
@@ -991,13 +1035,17 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/12_·_ONBOARDING-00D4FF?style=for-the-badge&labelColor=0A0A0A" />
+
 ## **从零到上线，只要一杯咖啡的时间。**
+
+> **▎ 重点 ·** **三步走 · 5 分钟出包 · 30 分钟跑通 · 全球 7×24 待命**
 
 </div>
 
 <br/>
 
-<table>
+<table align="center">
 <tr>
 <td width="33%" valign="top" align="center">
 
@@ -1045,13 +1093,17 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/13_·_PRICING-FFD700?style=for-the-badge&labelColor=0A0A0A" />
+
 ## **为认真做产品的人而生。**
+
+> **▎ 重点 ·** **STARTER 免费起步 · PRO 弹性扩展 · ENTERPRISE 全栈定制**
 
 </div>
 
 <br/>
 
-<table>
+<table align="center">
 <tr>
 <td width="33%" valign="top" align="center">
 
@@ -1128,7 +1180,11 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/14_·_FAQ-FFFFFF?style=for-the-badge&labelColor=0A0A0A" />
+
 ## **常被问到。**
+
+> **▎ 重点 ·** 速度、机型、稳定、安全、接入难度 —— **5 个最常见的问题，3 秒看完。**
 
 </div>
 
