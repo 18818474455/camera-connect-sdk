@@ -1,25 +1,29 @@
 <!--
   ═══════════════════════════════════════════════════════════════════════
-  CAMERA CONNECT SDK · README · Dark Tech Edition
-  Style: Linear / Vercel · Built with skill-icons + shields + AI visuals
+  CAMERA CONNECT SDK · README · Dark Tech Edition · v2
+  Style: Linear / Vercel · 13 AI cinematic visuals · Animated hero
   ═══════════════════════════════════════════════════════════════════════
 -->
 
-<div align="center">
+<!-- ═══════════════ 顶部动效波浪 ═══════════════ -->
 
-<br/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7C3AED&height=180&section=header&text=Camera%20Connect%20SDK&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Connect%20Anything.&descSize=20&descAlignY=62&animation=fadeIn)
+
+<div align="center">
 
 <!-- ═══════════════ HERO BANNER · 真实生成图 ═══════════════ -->
 
 <img src="./assets/01-hero.png" alt="Camera Connect SDK" width="100%" />
 
+<sub>↑ <i>USB 接口射出的光，散射成你想拍的一切。</i></sub>
+
 <br/>
 <br/>
 
-<!-- ═══════════════ HERO TITLE · 打字动画 ═══════════════ -->
+<!-- ═══════════════ HERO TITLE · 升级版打字动画 ═══════════════ -->
 
 <a href="https://github.com/18818474455/camera-connect-sdk">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=44&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&height=80&lines=Connect+Anything.;%E4%B8%8B%E4%B8%80%E4%BB%A3%E7%9B%B8%E6%9C%BA%E8%BF%9E%E6%8E%A5%E4%BD%93%E9%AA%8C;Built+for+Light-Speed+Photography." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=42&duration=2800&pause=600&color=00D4FF&background=0A0A0A00&center=true&vCenter=true&multiline=true&width=900&height=160&lines=Connect+Anything.;%E4%B8%8B%E4%B8%80%E4%BB%A3%E7%9B%B8%E6%9C%BA%E8%BF%9E%E6%8E%A5%E4%BD%93%E9%AA%8C;Built+for+Light-Speed+Photography.;%E2%9A%A1+%3C+1.5s+%C2%B7+99.97%25+%C2%B7+40%2B+models" alt="Animated Typing" />
 </a>
 
 <br/>
@@ -30,14 +34,14 @@
 
 <br/>
 
-<!-- ═══════════════ BADGES · Vercel 风暗色 ═══════════════ -->
+<!-- ═══════════════ ANIMATED BADGES ═══════════════ -->
 
 <p>
-  <img src="https://img.shields.io/badge/Version-1.0_Stable-FFFFFF?style=for-the-badge&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/⭐_Rating-4.9/5-FFFFFF?style=for-the-badge&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Devices-100K%2B-FFFFFF?style=for-the-badge&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Cameras-40%2B_Models-FFFFFF?style=for-the-badge&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Uptime-99.97%25-22C55E?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/⚡_Speed-%3C1.5s-00D4FF?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/✦_Uptime-99.97%25-22C55E?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/★_Rating-4.9%2F5-FFD700?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/⌘_Devices-100K%2B-FFFFFF?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/◉_Cameras-40%2B-FFFFFF?style=for-the-badge&labelColor=0A0A0A" />
 </p>
 
 <p>
@@ -54,7 +58,9 @@
 
 <br/>
 
----
+<!-- 流光分割线 -->
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2)
 
 <sub>Trusted by leading photographers, studios & live-streaming platforms worldwide.</sub>
 
@@ -64,7 +70,7 @@
 
 <br/>
 
-<!-- ═══════════════ TECH STACK · skill-icons ═══════════════ -->
+<!-- ═══════════════ TECH STACK ═══════════════ -->
 
 <div align="center">
 
@@ -81,7 +87,7 @@
 
 <br/>
 
-<!-- ═══════════════ KEY METRICS · 三大数字 ═══════════════ -->
+<!-- ═══════════════ KEY METRICS ═══════════════ -->
 
 <div align="center">
 
@@ -242,7 +248,7 @@
 
 <br/>
 
-<!-- ═══════════════ SCENARIOS · 十个改变行业的瞬间 ═══════════════ -->
+<!-- ═══════════════ SCENARIOS · 十个改变行业的瞬间 · 全部真图 + caption ═══════════════ -->
 
 <div align="center">
 
@@ -258,7 +264,7 @@
 
 <br/>
 
-<!-- 01 婚礼现场 · 真实图 -->
+<!-- 01 婚礼 -->
 
 <table width="100%">
 <tr>
@@ -281,6 +287,8 @@
 
 <img src="./assets/10-scenario-wedding.png" alt="Wedding" width="100%" />
 
+<sub>↑ <i>烛光下的平板，比仪式还浪漫。</i></sub>
+
 </td>
 </tr>
 </table>
@@ -291,13 +299,15 @@
 
 <br/>
 
-<!-- 02 时装秀场 · 真实图 -->
+<!-- 02 时装 -->
 
 <table width="100%">
 <tr>
 <td width="45%" align="center">
 
 <img src="./assets/11-scenario-fashion.png" alt="Fashion Week" width="100%" />
+
+<sub>↑ <i>T 台灯还没暗，照片已上热搜。</i></sub>
 
 </td>
 <td width="55%" valign="middle">
@@ -324,7 +334,7 @@
 
 <br/>
 
-<!-- 03 体育赛事 -->
+<!-- 03 体育 · 真实图 -->
 
 <table width="100%">
 <tr>
@@ -344,7 +354,9 @@
 </td>
 <td width="45%" align="center">
 
-<sub>**[ 场景图 · 暗色球场夜景 + 看台记者笔记本图片快速刷新 ]**</sub>
+<img src="./assets/12-scenario-sports.png" alt="Sports" width="100%" />
+
+<sub>↑ <i>记者席的笔记本，比 VAR 还快。</i></sub>
 
 </td>
 </tr>
@@ -356,13 +368,15 @@
 
 <br/>
 
-<!-- 04 电商直播 · 真实图 -->
+<!-- 04 直播 -->
 
 <table width="100%">
 <tr>
 <td width="45%" align="center">
 
 <img src="./assets/13-scenario-livestream.png" alt="Livestream" width="100%" />
+
+<sub>↑ <i>直播间的画质，从此值得被收藏。</i></sub>
 
 </td>
 <td width="55%" valign="middle">
@@ -389,7 +403,7 @@
 
 <br/>
 
-<!-- 05 新闻发布会 -->
+<!-- 05 发布会 · 真实图 -->
 
 <table width="100%">
 <tr>
@@ -410,7 +424,9 @@ PR 总监不用再追着摄影师要图。
 </td>
 <td width="45%" align="center">
 
-<sub>**[ 场景图 · 暗色发布会舞台 + 媒体席手机海洋 + 发光焦点 ]**</sub>
+<img src="./assets/14-scenario-press.png" alt="Press Conference" width="100%" />
+
+<sub>↑ <i>千人媒体席，每一束光都通向你的素材库。</i></sub>
 
 </td>
 </tr>
@@ -422,13 +438,15 @@ PR 总监不用再追着摄影师要图。
 
 <br/>
 
-<!-- 06 影楼写真 -->
+<!-- 06 影楼 · 真实图 -->
 
 <table width="100%">
 <tr>
 <td width="45%" align="center">
 
-<sub>**[ 场景图 · 暗色影楼 + 客户在大屏前选片 + 摄影师同步在拍 ]**</sub>
+<img src="./assets/15-scenario-studio.png" alt="Photo Studio" width="100%" />
+
+<sub>↑ <i>客户和摄影师，第一次站在同一个屏幕前。</i></sub>
 
 </td>
 <td width="55%" valign="middle">
@@ -454,7 +472,7 @@ PR 总监不用再追着摄影师要图。
 
 <br/>
 
-<!-- 07 演唱会 · 真实图 -->
+<!-- 07 演唱会 -->
 
 <table width="100%">
 <tr>
@@ -476,6 +494,8 @@ PR 总监不用再追着摄影师要图。
 
 <img src="./assets/16-scenario-concert.png" alt="Concert" width="100%" />
 
+<sub>↑ <i>万人合唱时，那张大屏照片是你拍的。</i></sub>
+
 </td>
 </tr>
 </table>
@@ -486,13 +506,15 @@ PR 总监不用再追着摄影师要图。
 
 <br/>
 
-<!-- 08 地产豪宅 -->
+<!-- 08 地产 · 真实图 -->
 
 <table width="100%">
 <tr>
 <td width="45%" align="center">
 
-<sub>**[ 场景图 · 暗色豪宅夜景 + iPad 上 360° 看房界面 ]**</sub>
+<img src="./assets/17-scenario-realestate.png" alt="Real Estate" width="100%" />
+
+<sub>↑ <i>把豪宅夜景，搬进客户的客厅。</i></sub>
 
 </td>
 <td width="55%" valign="middle">
@@ -518,7 +540,7 @@ PR 总监不用再追着摄影师要图。
 
 <br/>
 
-<!-- 09 户外探险 · 真实图 -->
+<!-- 09 户外 -->
 
 <table width="100%">
 <tr>
@@ -541,6 +563,8 @@ PR 总监不用再追着摄影师要图。
 
 <img src="./assets/18-scenario-expedition.png" alt="Expedition" width="100%" />
 
+<sub>↑ <i>极光下的快门，5 秒后落在导演的手机上。</i></sub>
+
 </td>
 </tr>
 </table>
@@ -551,13 +575,15 @@ PR 总监不用再追着摄影师要图。
 
 <br/>
 
-<!-- 10 摄影教学 -->
+<!-- 10 教学 · 真实图 -->
 
 <table width="100%">
 <tr>
 <td width="45%" align="center">
 
-<sub>**[ 场景图 · 暗色教室 + 投影大屏正在实时显示老师相机拍出的样片 ]**</sub>
+<img src="./assets/19-scenario-teaching.png" alt="Teaching" width="100%" />
+
+<sub>↑ <i>每一次按下快门，都是一节示范课。</i></sub>
 
 </td>
 <td width="55%" valign="middle">
@@ -609,7 +635,7 @@ PR 总监不用再追着摄影师要图。
 
 <br/>
 
-<!-- ═══════════════ GLOBAL MAP · 真实图 ═══════════════ -->
+<!-- ═══════════════ GLOBAL MAP ═══════════════ -->
 
 <div align="center">
 
@@ -621,6 +647,8 @@ PR 总监不用再追着摄影师要图。
 <br/>
 
 <img src="./assets/20-global-map.png" alt="Global Network" width="80%" />
+
+<sub>↑ <i>每一个光点，都是一台正在工作的相机。</i></sub>
 
 </div>
 
@@ -741,7 +769,7 @@ PR 总监不用再追着摄影师要图。
 
 <br/>
 
-<!-- ═══════════════ AWARDS · shields ═══════════════ -->
+<!-- ═══════════════ AWARDS ═══════════════ -->
 
 <div align="center">
 
@@ -1181,7 +1209,7 @@ PR 总监不用再追着摄影师要图。
 
 <br/>
 
-<!-- ═══════════════ FINAL CTA · 真实图 ═══════════════ -->
+<!-- ═══════════════ FINAL CTA ═══════════════ -->
 
 <div align="center">
 
@@ -1264,7 +1292,10 @@ PR 总监不用再追着摄影师要图。
 
 <sub>`Made with obsession in 12 cities.`</sub>
 
-<br/>
+</div>
+
 <br/>
 
-</div>
+<!-- ═══════════════ 底部动效波浪 ═══════════════ -->
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00D4FF&height=120&section=footer&animation=fadeIn)
