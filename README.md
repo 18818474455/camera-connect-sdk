@@ -91,13 +91,22 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01_·_PERFORMANCE-00D4FF?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://api.iconify.design/lucide/zap.svg?color=%2300D4FF&width=64" alt="Performance" height="64" />
+
+#### `01 · PERFORMANCE`
 
 ## **Built for those who shoot at the speed of light.**
 
 <sub>没有等待。没有妥协。只有连接。</sub>
 
-> **▎ 重点 ·** **1.5 秒**到画面，**99.97%** 成功率，**0** 配置项。三个数字，定义行业。
+</div>
+
+> [!TIP]
+> ### ⚡ 速度即是一切
+> `< 1.5s` 到画面 　·　 `99.97%` 成功率 　·　 `0` 配置项  
+> **三个数字，定义行业。**
+
+<div align="center">
 
 </div>
 
@@ -143,11 +152,20 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/02_·_PRODUCT-7C3AED?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://api.iconify.design/lucide/sparkles.svg?color=%237C3AED&width=64" alt="Product" height="64" />
+
+#### `02 · PRODUCT`
 
 ## **看起来很简单。背后是十万小时。**
 
-> **▎ 重点 ·** 流畅 / 即时 / 可靠 / 全品牌 —— **四个产品基因，一个都不能少。**
+</div>
+
+> [!NOTE]
+> ### ✨ 四种产品基因
+> 流畅 　·　 即时 　·　 可靠 　·　 全品牌  
+> **一个都不能少，缺一即不及格。**
+
+<div align="center">
 
 </div>
 
@@ -198,13 +216,22 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/03_·_FOR_WHOM-22C55E?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://api.iconify.design/lucide/users-round.svg?color=%2322C55E&width=64" alt="For Whom" height="64" />
+
+#### `03 · FOR WHOM`
 
 ## **三种角色。同一个秘密武器。**
 
 <sub>无论你是谁，它都让你比昨天更专业。</sub>
 
-> **▎ 重点 ·** 摄影师 / 直播方 / App 开发者 —— **三个赛道，一个答案。**
+</div>
+
+> [!IMPORTANT]
+> ### 👥 三个赛道，一个答案
+> 摄影师 　·　 直播方 　·　 App 开发者  
+> **不论你是谁，它都让你赢在起跑线。**
+
+<div align="center">
 
 </div>
 
@@ -264,13 +291,23 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/04_·_SCENARIOS-FF6154?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://api.iconify.design/lucide/clapperboard.svg?color=%23FF6154&width=64" alt="Scenarios" height="64" />
+
+#### `04 · SCENARIOS`
 
 ## **十个改变行业的瞬间。**
 
 <sub>从婚礼现场到太空轨道，它正在重新定义"拍摄"这件事。</sub>
 
-> **▎ 重点 ·** 婚礼 / 时装 / 体育 / 直播 / 发布会 / 影楼 / 演唱会 / 地产 / 探险 / 教学 —— **每一个行业，都在被它改变。**
+</div>
+
+> [!TIP]
+> ### 🎬 十个行业，正在被它改变
+> 婚礼 　·　 时装 　·　 体育 　·　 直播 　·　 发布会  
+> 影楼 　·　 演唱会 　·　 地产 　·　 探险 　·　 教学  
+> **每一个场景，都是一个真实的故事。**
+
+<div align="center">
 
 <br/>
 
@@ -655,13 +692,22 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/05_·_GLOBAL-FFFFFF?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://api.iconify.design/lucide/globe-2.svg?color=%23FFFFFF&width=64" alt="Global" height="64" />
+
+#### `05 · GLOBAL`
 
 ## **它，已经在世界各地。**
 
 <sub>从北京到柏林，从纽约到东京。每一秒都有一台相机，因它而连接。</sub>
 
-> **▎ 重点 ·** **12 个国家、38 座城市、6 种语言** —— 你在哪，它就在哪。
+</div>
+
+> [!NOTE]
+> ### 🌍 全球同此凉热
+> `12` 个国家 　·　 `38` 座城市 　·　 `6` 种语言  
+> **你在哪里，它就在哪里。**
+
+<div align="center">
 
 <br/>
 <br/>
@@ -720,13 +766,22 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/06_·_TESTIMONIALS-FFD700?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://api.iconify.design/lucide/message-circle-heart.svg?color=%23FFD700&width=64" alt="Testimonials" height="64" />
+
+#### `06 · TESTIMONIALS`
 
 ## **他们已经在用。**
 
 <sub>从婚礼跟拍到时装周，从直播大厂到独立工作室。</sub>
 
-> **▎ 重点 ·** **国家地理摄影师、直播平台 CTO、米兰时装团队** —— 业内的人，最懂它的好。
+</div>
+
+> [!IMPORTANT]
+> ### 💬 内行人的真心话
+> 国家地理摄影师 　·　 直播平台 CTO 　·　 米兰时装团队  
+> **业内人，最懂这份"好"。**
+
+<div align="center">
 
 </div>
 
@@ -797,11 +852,21 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/07_·_AWARDS-FFD700?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700&width=64" alt="Awards" height="64" />
+
+#### `07 · AWARDS`
 
 ## **荣誉时刻**
 
-> **▎ 重点 ·** **App Store 编辑推荐 · Product Hunt #1 · InfoComm 金奖 · Apple 大会 Featured**
+</div>
+
+> [!WARNING]
+> ### 🏆 高光时刻
+> App Store 编辑推荐 　·　 Product Hunt #1  
+> InfoComm 金奖 　·　 Apple 开发者大会 Featured  
+> **每一项，都是行业用脚投票的结果。**
+
+<div align="center">
 
 <br/>
 
@@ -827,11 +892,21 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/08_·_PRESS-FFFFFF?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://api.iconify.design/lucide/newspaper.svg?color=%23FFFFFF&width=64" alt="Press" height="64" />
+
+#### `08 · PRESS`
 
 ## **媒体怎么说。**
 
-> **▎ 重点 ·** _"重新定义了相机与手机的关系" · "像 Apple 一样的产品哲学"_
+</div>
+
+> [!NOTE]
+> ### 📰 行业的高声评价
+> _"重新定义了相机与手机的关系。"_  
+> _"像 Apple 一样的产品哲学。"_  
+> **这不是软文，是真实评论。**
+
+<div align="center">
 
 </div>
 
@@ -876,11 +951,20 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/09_·_NUMBERS-00D4FF?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%2300D4FF&width=64" alt="Numbers" height="64" />
+
+#### `09 · NUMBERS`
 
 ## **数字不会说谎。**
 
-> **▎ 重点 ·** **100K+ 装机 · 2.4M 月活 · 38M+ 累计传输 · 4.9 星好评** —— 数据是产品的另一个名字。
+</div>
+
+> [!TIP]
+> ### 📊 数据是产品的另一个名字
+> `100K+` 装机 　·　 `2.4M` 月活 　·　 `38M+` 累计传输 　·　 `4.9★` 好评  
+> **每一个数字，都来自真实的客户。**
+
+<div align="center">
 
 </div>
 
@@ -932,11 +1016,20 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/10_·_STORY-7C3AED?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://api.iconify.design/lucide/book-heart.svg?color=%237C3AED&width=64" alt="Story" height="64" />
+
+#### `10 · STORY`
 
 ## **我们为什么做这件事。**
 
-> **▎ 重点 ·** **不让任何人，为一张照片等待。** —— 这是我们做产品的初心。
+</div>
+
+> [!IMPORTANT]
+> ### 📖 一切的起点
+> **再也不要让任何人，为一张照片等待。**  
+> 这不是营销词。这是我们做产品的全部理由。
+
+<div align="center">
 
 </div>
 
@@ -967,13 +1060,22 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/11_·_ENTERPRISE-22C55E?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://api.iconify.design/lucide/shield-check.svg?color=%2322C55E&width=64" alt="Enterprise" height="64" />
+
+#### `11 · ENTERPRISE`
 
 ## **企业级承诺。**
 
 <sub>从一台相机，到一万台相机。它都是同一个答案。</sub>
 
-> **▎ 重点 ·** **SLA 99.9% 写进合同 · 数据零泄漏 · 专属技术经理 · 新机型 24h 适配**
+</div>
+
+> [!TIP]
+> ### 🛡️ 写进合同的承诺
+> SLA 99.9% 　·　 数据零泄漏 　·　 专属技术经理 　·　 新机型 24h 适配  
+> **不是 PPT，是真金白银。**
+
+<div align="center">
 
 </div>
 
@@ -1035,11 +1137,20 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/12_·_ONBOARDING-00D4FF?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://api.iconify.design/lucide/rocket.svg?color=%2300D4FF&width=64" alt="Onboarding" height="64" />
+
+#### `12 · ONBOARDING`
 
 ## **从零到上线，只要一杯咖啡的时间。**
 
-> **▎ 重点 ·** **三步走 · 5 分钟出包 · 30 分钟跑通 · 全球 7×24 待命**
+</div>
+
+> [!TIP]
+> ### 🚀 三步上线
+> `5 分钟` 收到试用包 　·　 `30 分钟` 跑通 Demo 　·　 `7×24` 全球响应  
+> **从想法到上线，从未如此简单。**
+
+<div align="center">
 
 </div>
 
@@ -1093,11 +1204,20 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/13_·_PRICING-FFD700?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://api.iconify.design/lucide/gem.svg?color=%23FFD700&width=64" alt="Pricing" height="64" />
+
+#### `13 · PRICING`
 
 ## **为认真做产品的人而生。**
 
-> **▎ 重点 ·** **STARTER 免费起步 · PRO 弹性扩展 · ENTERPRISE 全栈定制**
+</div>
+
+> [!NOTE]
+> ### 💎 价格匹配价值
+> STARTER 免费起步 　·　 PRO 弹性扩展 　·　 ENTERPRISE 全栈定制  
+> **永远只为你需要的能力付费。**
+
+<div align="center">
 
 </div>
 
@@ -1180,11 +1300,20 @@ PR 总监不用再追着摄影师要图。
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/14_·_FAQ-FFFFFF?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://api.iconify.design/lucide/message-circle-question.svg?color=%23FFFFFF&width=64" alt="FAQ" height="64" />
+
+#### `14 · FAQ`
 
 ## **常被问到。**
 
-> **▎ 重点 ·** 速度、机型、稳定、安全、接入难度 —— **5 个最常见的问题，3 秒看完。**
+</div>
+
+> [!NOTE]
+> ### ❓ 5 个最常见的问题
+> 速度 　·　 机型 　·　 稳定 　·　 安全 　·　 接入难度  
+> **3 秒看完，所有疑虑就清零。**
+
+<div align="center">
 
 </div>
 
