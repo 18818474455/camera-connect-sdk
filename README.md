@@ -54,6 +54,45 @@
 
 <br/>
 
+<!-- ═══════════════ LIVE DEMO · 真实运行截图 ═══════════════ -->
+
+<table align="center">
+<tr>
+<td align="center" width="280">
+
+<img src="./assets/30-demo-home.png" alt="Demo 主界面 · 真实运行截图" width="240" />
+
+</td>
+<td align="left" width="420" valign="middle">
+
+#### <img src="https://api.iconify.design/lucide/smartphone.svg?color=%2300D4FF&width=22" height="20" /> 真实运行界面 · 不止说说而已
+
+> 这就是你即将体验的产品 —— 截图来自 v1.0.0，未经任何修饰。
+
+<table>
+<tr><td>
+
+<img src="https://api.iconify.design/lucide/usb.svg?color=%2300D4FF&width=18" height="16" /> &nbsp;**一键 USB 直连**　插线即识别，无需配对
+
+<img src="https://api.iconify.design/lucide/layers.svg?color=%237C3AED&width=18" height="16" /> &nbsp;**JPG 超清 / RAW 任选**　画质你说了算
+
+<img src="https://api.iconify.design/lucide/radio.svg?color=%2322C55E&width=18" height="16" /> &nbsp;**图片直播 / 标准同步**　两种模式按需切换
+
+<img src="https://api.iconify.design/lucide/check-square.svg?color=%23FFD700&width=18" height="16" /> &nbsp;**多选 / 条件批量上传**　千张照片秒级处理
+
+<img src="https://api.iconify.design/lucide/activity.svg?color=%23FFFFFF&width=18" height="16" /> &nbsp;**实时进度可视**　全部 / 上传中 / 已上传 / 失败 一目了然
+
+</td></tr>
+</table>
+
+<sub><i>↑ 此刻插上你的相机，看见这个画面只需 30 秒</i></sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <!-- ═══════════════ 下载体验 · 扫码 + 直链 ═══════════════ -->
 
 <table align="center">
