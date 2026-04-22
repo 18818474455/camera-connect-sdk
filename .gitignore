@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+._*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build / Cache (永远不应该入仓)
+node_modules/
+.dart_tool/
+build/
+Pods/
+*.iml
+
+# 临时文件
+*.log
+*.tmp
+.cache/
