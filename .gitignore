@@ -19,3 +19,8 @@ Pods/
 *.log
 *.tmp
 .cache/
+
+# Release 临时区（APK 通过 GitHub Releases 发布，不入仓）
+.release-tmp/
+*.apk
+*.ipa

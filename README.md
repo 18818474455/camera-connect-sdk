@@ -54,7 +54,52 @@
 
 <br/>
 
-**[ ▸ 开始体验 ](#)**　　　**[ ▸ 观看演示 ](#)**　　　**[ ▸ 联系商务 ](#)**
+<!-- ═══════════════ 下载体验 · 扫码 + 直链 ═══════════════ -->
+
+<table align="center">
+<tr>
+<td align="center" width="320">
+
+#### <img src="https://api.iconify.design/lucide/qr-code.svg?color=%2300D4FF&width=22" height="20" /> 手机扫码 · 即扫即装
+
+<a href="https://github.com/18818474455/camera-connect-sdk/releases/download/v1.0.0/camera-connect-sdk-demo-v1.0.0.apk">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Fgithub.com%2F18818474455%2Fcamera-connect-sdk%2Freleases%2Fdownload%2Fv1.0.0%2Fcamera-connect-sdk-demo-v1.0.0.apk&margin=10&qzone=2" alt="扫码下载 APK" width="200" />
+</a>
+
+<sub><i>用相机的手，请别错过这次体验</i></sub>
+
+</td>
+<td align="center" width="320">
+
+#### <img src="https://api.iconify.design/lucide/download-cloud.svg?color=%237C3AED&width=22" height="20" /> 一键直链下载
+
+<br/>
+
+<a href="https://github.com/18818474455/camera-connect-sdk/releases/download/v1.0.0/camera-connect-sdk-demo-v1.0.0.apk">
+  <img src="https://img.shields.io/badge/⬇_Download_APK-v1.0.0_·_47MB-7C3AED?style=for-the-badge&labelColor=0A0A0A&logo=android&logoColor=white" alt="Download APK" height="40" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/18818474455/camera-connect-sdk/releases/latest">
+  <img src="https://img.shields.io/github/v/release/18818474455/camera-connect-sdk?label=Latest&color=00D4FF&labelColor=0A0A0A&style=for-the-badge&logo=github&logoColor=white" alt="Latest" />
+</a>
+&nbsp;
+<a href="https://github.com/18818474455/camera-connect-sdk/releases">
+  <img src="https://img.shields.io/github/downloads/18818474455/camera-connect-sdk/total?label=Downloads&color=22C55E&labelColor=0A0A0A&style=for-the-badge&logo=cloudsmith&logoColor=white" alt="Downloads" />
+</a>
+
+<br/><br/>
+
+<sub>`Android 7.0+` · `47MB` · `永久免费` · `无需注册`</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**[ ▸ 立即下载 APK ](https://github.com/18818474455/camera-connect-sdk/releases/download/v1.0.0/camera-connect-sdk-demo-v1.0.0.apk)**　　　**[ ▸ 观看演示 ](#)**　　　**[ ▸ 联系商务 ](#)**
 
 <br/>
 
@@ -1408,7 +1453,19 @@ PR 总监不用再追着摄影师要图。
 
 <br/>
 
-**[ ▸ 立即开始 ](#)**　　　**[ ▸ 预约演示 ](#)**
+<a href="https://github.com/18818474455/camera-connect-sdk/releases/download/v1.0.0/camera-connect-sdk-demo-v1.0.0.apk">
+  <img src="https://img.shields.io/badge/⬇_下载_Demo_APK-v1.0.0_·_47MB-7C3AED?style=for-the-badge&labelColor=0A0A0A&logo=android&logoColor=white" alt="Download Demo" height="44" />
+</a>
+&nbsp;&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/▸_预约演示-Schedule_a_Demo-00D4FF?style=for-the-badge&labelColor=0A0A0A" height="44" />
+</a>
+
+<br/><br/>
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https%3A%2F%2Fgithub.com%2F18818474455%2Fcamera-connect-sdk%2Freleases%2Fdownload%2Fv1.0.0%2Fcamera-connect-sdk-demo-v1.0.0.apk&margin=10&qzone=2" alt="扫码下载" width="160" />
+
+<sub><i>↑ 手机扫码 · 30 秒装好 · 立即体验</i></sub>
 
 <br/>
 
