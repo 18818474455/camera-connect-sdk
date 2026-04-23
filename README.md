@@ -1550,15 +1550,15 @@ PR 总监不用再追着摄影师要图。
 <!-- STATS:START — auto-generated, do not edit -->
 <table align="center">
   <tr>
-    <td align="center"><b>★ Stars</b><br/><code>—</code></td>
-    <td align="center"><b>⑂ Forks</b><br/><code>—</code></td>
-    <td align="center"><b>👁 Watchers</b><br/><code>—</code></td>
-    <td align="center"><b>⬇ Total Downloads</b><br/><code>—</code></td>
-    <td align="center"><b>🏷 Latest</b><br/><code>—</code></td>
+    <td align="center"><b>★ Stars</b><br/><code>1</code></td>
+    <td align="center"><b>⑂ Forks</b><br/><code>0</code></td>
+    <td align="center"><b>👁 Watchers</b><br/><code>0</code></td>
+    <td align="center"><b>⬇ Total Downloads</b><br/><code>1</code></td>
+    <td align="center"><b>🏷 Latest</b><br/><code>v1.0.0</code></td>
   </tr>
 </table>
 
-<p align="center"><sub>Last refreshed: <code>—</code> · auto-updated every Monday by <a href="./.github/workflows/stats.yml">stats.yml</a></sub></p>
+<p align="center"><sub>Last refreshed: <code>2026-04-23</code> · auto-updated every Monday by <a href="./.github/workflows/stats.yml">stats.yml</a></sub></p>
 <!-- STATS:END -->
 
 <br/>
