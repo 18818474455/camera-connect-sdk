@@ -1,0 +1,106 @@
+name: Weekly Stats Refresh
+
+on:
+  schedule:
+    # Every Monday 02:00 UTC (10:00 Beijing)
+    - cron: "0 2 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch live numbers
+        id: fetch
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const owner = '18818474455';
+            const repo  = 'camera-connect-sdk';
+
+            const repoInfo = await github.rest.repos.get({ owner, repo });
+            const stars      = repoInfo.data.stargazers_count;
+            const forks      = repoInfo.data.forks_count;
+            const watchers   = repoInfo.data.subscribers_count;
+            const openIssues = repoInfo.data.open_issues_count;
+
+            const releases = await github.paginate(github.rest.repos.listReleases, { owner, repo });
+            const totalDownloads = releases.reduce(
+              (sum, r) => sum + r.assets.reduce((s, a) => s + (a.download_count || 0), 0),
+              0
+            );
+            const latestTag = releases[0]?.tag_name || 'n/a';
+
+            const today = new Date().toISOString().slice(0, 10);
+
+            core.setOutput('stars', stars);
+            core.setOutput('forks', forks);
+            core.setOutput('watchers', watchers);
+            core.setOutput('open_issues', openIssues);
+            core.setOutput('downloads', totalDownloads);
+            core.setOutput('latest_tag', latestTag);
+            core.setOutput('updated', today);
+
+      - name: Build stats block
+        id: block
+        run: |
+          cat > /tmp/stats.md << 'EOF'
+          <!-- STATS:START — auto-generated, do not edit -->
+          <table align="center">
+            <tr>
+              <td align="center"><b>★ Stars</b><br/><code>${{ steps.fetch.outputs.stars }}</code></td>
+              <td align="center"><b>⑂ Forks</b><br/><code>${{ steps.fetch.outputs.forks }}</code></td>
+              <td align="center"><b>👁 Watchers</b><br/><code>${{ steps.fetch.outputs.watchers }}</code></td>
+              <td align="center"><b>⬇ Total Downloads</b><br/><code>${{ steps.fetch.outputs.downloads }}</code></td>
+              <td align="center"><b>🏷 Latest</b><br/><code>${{ steps.fetch.outputs.latest_tag }}</code></td>
+            </tr>
+          </table>
+
+          <p align="center"><sub>Last refreshed: <code>${{ steps.fetch.outputs.updated }}</code> · auto-updated every Monday by <a href="./.github/workflows/stats.yml">stats.yml</a></sub></p>
+          <!-- STATS:END -->
+          EOF
+
+      - name: Update README.md and README_EN.md
+        run: |
+          set -e
+          for f in README.md README_EN.md; do
+            if [ -f "$f" ] && grep -q '<!-- STATS:START' "$f"; then
+              python3 - "$f" /tmp/stats.md << 'PYEOF'
+          import sys, re, pathlib
+          target = pathlib.Path(sys.argv[1])
+          block  = pathlib.Path(sys.argv[2]).read_text()
+          orig   = target.read_text()
+          new    = re.sub(
+            r'<!-- STATS:START.*?<!-- STATS:END -->',
+            block.strip(),
+            orig,
+            flags=re.DOTALL,
+          )
+          target.write_text(new)
+          print(f"Updated {target}")
+          PYEOF
+            fi
+          done
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add README.md README_EN.md
+            git commit -m "chore(stats): weekly refresh — ${{ steps.fetch.outputs.stars }}★ · ${{ steps.fetch.outputs.downloads }} downloads"
+            git push
+          else
+            echo "No stats change — skipping commit."
+          fi

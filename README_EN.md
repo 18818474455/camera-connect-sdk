@@ -1134,6 +1134,54 @@ Yes. Photos travel directly from camera to phone — they never touch our server
 
 <br/>
 
+<!-- ═══════════════ Live Community Signals ═══════════════ -->
+
+<div align="center">
+
+<img src="https://api.iconify.design/lucide/activity.svg?color=%2300D4FF&width=64" alt="Live signals" height="64" />
+
+## **Community pulse · live data**
+
+<sub>Auto-refreshed every Monday · Powered by GitHub Actions · No vanity metrics</sub>
+
+<br/>
+
+<!-- STATS:START — auto-generated, do not edit -->
+<table align="center">
+  <tr>
+    <td align="center"><b>★ Stars</b><br/><code>—</code></td>
+    <td align="center"><b>⑂ Forks</b><br/><code>—</code></td>
+    <td align="center"><b>👁 Watchers</b><br/><code>—</code></td>
+    <td align="center"><b>⬇ Total Downloads</b><br/><code>—</code></td>
+    <td align="center"><b>🏷 Latest</b><br/><code>—</code></td>
+  </tr>
+</table>
+
+<p align="center"><sub>Last refreshed: <code>—</code> · auto-updated every Monday by <a href="./.github/workflows/stats.yml">stats.yml</a></sub></p>
+<!-- STATS:END -->
+
+<br/>
+
+### **Star history**
+
+<a href="https://star-history.com/#18818474455/camera-connect-sdk&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=18818474455/camera-connect-sdk&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=18818474455/camera-connect-sdk&type=Date" />
+    <img alt="Star history chart" src="https://api.star-history.com/svg?repos=18818474455/camera-connect-sdk&type=Date" width="720" />
+  </picture>
+</a>
+
+<sub><i>↑ Every star is a vote from a photographer. <a href="https://github.com/18818474455/camera-connect-sdk/stargazers">Star us</a> to keep this going.</i></sub>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 <!-- ═══════════════ Footer ═══════════════ -->
 
 <div align="center">

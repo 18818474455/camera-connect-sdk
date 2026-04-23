@@ -1535,6 +1535,54 @@ PR 总监不用再追着摄影师要图。
 
 <br/>
 
+<!-- ═══════════════ LIVE COMMUNITY SIGNALS ═══════════════ -->
+
+<div align="center">
+
+<img src="https://api.iconify.design/lucide/activity.svg?color=%2300D4FF&width=64" alt="Live signals" height="64" />
+
+## **社区脉搏 · 实时数据**
+
+<sub>每周一自动刷新 · 由 GitHub Actions 驱动 · 永不撒谎</sub>
+
+<br/>
+
+<!-- STATS:START — auto-generated, do not edit -->
+<table align="center">
+  <tr>
+    <td align="center"><b>★ Stars</b><br/><code>—</code></td>
+    <td align="center"><b>⑂ Forks</b><br/><code>—</code></td>
+    <td align="center"><b>👁 Watchers</b><br/><code>—</code></td>
+    <td align="center"><b>⬇ Total Downloads</b><br/><code>—</code></td>
+    <td align="center"><b>🏷 Latest</b><br/><code>—</code></td>
+  </tr>
+</table>
+
+<p align="center"><sub>Last refreshed: <code>—</code> · auto-updated every Monday by <a href="./.github/workflows/stats.yml">stats.yml</a></sub></p>
+<!-- STATS:END -->
+
+<br/>
+
+### **Star 增长曲线**
+
+<a href="https://star-history.com/#18818474455/camera-connect-sdk&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=18818474455/camera-connect-sdk&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=18818474455/camera-connect-sdk&type=Date" />
+    <img alt="Star history chart" src="https://api.star-history.com/svg?repos=18818474455/camera-connect-sdk&type=Date" width="720" />
+  </picture>
+</a>
+
+<sub><i>↑ 每个 star 都是一位摄影师投的票。点 <a href="https://github.com/18818474455/camera-connect-sdk/stargazers">★ Star</a> 让我们继续做下去。</i></sub>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 <!-- ═══════════════ NEWSLETTER ═══════════════ -->
 
 <div align="center">

@@ -1,0 +1,52 @@
+name: Link Check
+
+on:
+  push:
+    branches: [ "main" ]
+    paths:
+      - "**/*.md"
+      - ".github/workflows/links.yml"
+  pull_request:
+    branches: [ "main" ]
+    paths:
+      - "**/*.md"
+  schedule:
+    # Every Sunday 04:00 UTC — catches link rot
+    - cron: "0 4 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  lychee:
+    name: Lychee link checker
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run Lychee
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # exclude noisy / unauthenticated APIs
+          args: >-
+            --verbose
+            --no-progress
+            --exclude '^https?://api\.iconify\.design'
+            --exclude '^https?://img\.shields\.io'
+            --exclude '^https?://api\.qrserver\.com'
+            --exclude '^https?://readme-typing-svg\.demolab\.com'
+            --exclude '^https?://capsule-render\.vercel\.app'
+            --exclude '^https?://skillicons\.dev'
+            --exclude '^https?://komarev\.com'
+            --exclude '^https?://github-readme-stats\.vercel\.app'
+            --exclude '^https?://github-readme-streak-stats\.herokuapp\.com'
+            --exclude '^https?://api\.star-history\.com'
+            --accept '200,206,429'
+            './**/*.md'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
