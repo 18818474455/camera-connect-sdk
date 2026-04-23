@@ -1182,46 +1182,58 @@ Yes. Photos travel directly from camera to phone — they never touch our server
 
 <br/>
 
-<!-- ═══════════════ WeChat · Follow ═══════════════ -->
+<!-- ═══════════════ WeChat · Follow + Add ═══════════════ -->
 
 <div align="center">
 
 <img src="https://api.iconify.design/lucide/message-circle-heart.svg?color=%2322C55E&width=64" alt="WeChat" height="64" />
 
-## **Follow us on WeChat**
+## **WeChat — fastest channel for China-based readers**
 
-<sub>New camera support · Release notes · Photographer interviews · Community perks</sub>
+<sub>Public account for broadcasts · personal WeChat for 1-on-1 · pick your channel</sub>
 
 <br/>
 
 <table align="center">
 <tr>
-<td align="center" width="280">
+<td align="center" width="320">
 
-<img src="./assets/40-wechat-qr.png" alt="WeChat Official Account QR" width="220" />
+#### <img src="https://api.iconify.design/ri/wechat-fill.svg?color=%2322C55E&width=22" height="20" /> &nbsp;Official account · Weekly broadcast
 
-<sub><b>Scan with WeChat · "Camera Connect SDK"</b></sub>
+<img src="./assets/40-wechat-qr.png" alt="WeChat Official Account QR" width="200" />
+
+<sub><b>"Camera Connect SDK"</b></sub>
+
+<br/><br/>
+
+`New camera support` · `Releases` · `Industry insight`
+**One digest per week · zero spam**
 
 </td>
-<td align="left" width="380" valign="middle">
+<td align="center" width="320">
 
-#### <img src="https://api.iconify.design/ri/wechat-fill.svg?color=%2322C55E&width=22" height="20" /> &nbsp;The fastest channel for China-based readers
+#### <img src="https://api.iconify.design/ri/wechat-line.svg?color=%237C3AED&width=22" height="20" /> &nbsp;Add me · 1-on-1 chat
 
-> **Weekly digest**: new releases · new camera support · industry insight
-> **Exclusive perks**: beta access · commercial-license discounts · private Q&A
-> **No spam, ever**: only what photographers actually want
+<img src="./assets/41-wechat-personal.png" alt="Founder personal WeChat QR" width="200" />
 
-<br/>
+<sub><b>"陈影留白" (founder)</b></sub>
 
-`12,000+` photographers · `40+` studios · `200+` industry readers
+<br/><br/>
 
-<br/>
-
-<sub>👉 Prefer English? Use [Discussions](https://github.com/18818474455/camera-connect-sdk/discussions) or [Issues](https://github.com/18818474455/camera-connect-sdk/issues) — we reply in both.</sub>
+`Technical Q&A` · `Commercial license` · `OEM`
+**Real human · no support tickets**
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<sub>👉 Don't use WeChat? [Discussions](https://github.com/18818474455/camera-connect-sdk/discussions) or [Issues](https://github.com/18818474455/camera-connect-sdk/issues) — we reply in English too.</sub>
+
+<br/>
+
+`12,000+` photographers · `40+` studios · `200+` industry readers
 
 </div>
 
