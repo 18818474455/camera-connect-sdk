@@ -1182,6 +1182,55 @@ Yes. Photos travel directly from camera to phone — they never touch our server
 
 <br/>
 
+<!-- ═══════════════ WeChat · Follow ═══════════════ -->
+
+<div align="center">
+
+<img src="https://api.iconify.design/lucide/message-circle-heart.svg?color=%2322C55E&width=64" alt="WeChat" height="64" />
+
+## **Follow us on WeChat**
+
+<sub>New camera support · Release notes · Photographer interviews · Community perks</sub>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="280">
+
+<img src="./assets/40-wechat-qr.png" alt="WeChat Official Account QR" width="220" />
+
+<sub><b>Scan with WeChat · "Camera Connect SDK"</b></sub>
+
+</td>
+<td align="left" width="380" valign="middle">
+
+#### <img src="https://api.iconify.design/ri/wechat-fill.svg?color=%2322C55E&width=22" height="20" /> &nbsp;The fastest channel for China-based readers
+
+> **Weekly digest**: new releases · new camera support · industry insight
+> **Exclusive perks**: beta access · commercial-license discounts · private Q&A
+> **No spam, ever**: only what photographers actually want
+
+<br/>
+
+`12,000+` photographers · `40+` studios · `200+` industry readers
+
+<br/>
+
+<sub>👉 Prefer English? Use [Discussions](https://github.com/18818474455/camera-connect-sdk/discussions) or [Issues](https://github.com/18818474455/camera-connect-sdk/issues) — we reply in both.</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 <!-- ═══════════════ Footer ═══════════════ -->
 
 <div align="center">

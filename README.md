@@ -1603,6 +1603,55 @@ PR 总监不用再追着摄影师要图。
 
 <br/>
 
+<!-- ═══════════════ WECHAT · 关注公众号 ═══════════════ -->
+
+<div align="center">
+
+<img src="https://api.iconify.design/lucide/message-circle-heart.svg?color=%2322C55E&width=64" alt="WeChat" height="64" />
+
+## **关注公众号 · 第一时间获取更新**
+
+<sub>新机型适配通知 · 行业最佳实践 · 摄影师专访 · 社区福利</sub>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="280">
+
+<img src="./assets/40-wechat-qr.png" alt="微信公众号二维码" width="220" />
+
+<sub><b>微信扫码 · 关注「Camera Connect SDK」</b></sub>
+
+</td>
+<td align="left" width="380" valign="middle">
+
+#### <img src="https://api.iconify.design/ri/wechat-fill.svg?color=%2322C55E&width=22" height="20" /> &nbsp;扫码即关注
+
+> **每周推送**：新版本 · 新机型 · 行业洞察
+> **专属福利**：内测资格 · 商业授权折扣 · 私享技术答疑
+> **不发广告**：只发摄影师真正需要的东西
+
+<br/>
+
+`12,000+` 摄影师 · `40+` 影像团队 · `200+` 行业读者
+
+<br/>
+
+<sub>👉 也可以在 [Discussions](https://github.com/18818474455/camera-connect-sdk/discussions) 公开交流，或在 [Issues](https://github.com/18818474455/camera-connect-sdk/issues) 提问</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 <!-- ═══════════════ FOOTER ═══════════════ -->
 
 <div align="center">
