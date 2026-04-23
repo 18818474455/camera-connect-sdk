@@ -27,7 +27,7 @@ jobs:
         # When real source code is added, append "javascript", "java", "kotlin", "swift" etc.
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Initialize CodeQL
         uses: github/codeql-action/init@v3
