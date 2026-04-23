@@ -1,0 +1,58 @@
+title: "[Showcase] "
+labels: ["showcase"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🎨 Show off what you built!
+
+        Share photos, projects, or apps built with Camera Connect SDK.
+        We feature the best ones in our README and on social media — please mention if you'd like to opt in!
+
+  - type: input
+    id: project
+    attributes:
+      label: Project / shoot name
+      placeholder: e.g. "Tokyo Street Series", "Smith Wedding 2026", "My Tethered iPad App"
+    validations:
+      required: true
+
+  - type: textarea
+    id: story
+    attributes:
+      label: The story
+      description: Tell us about it — what you shot, what you built, how the SDK helped.
+    validations:
+      required: true
+
+  - type: textarea
+    id: media
+    attributes:
+      label: Photos / videos / screenshots
+      description: Drag & drop your favorite frames here. (Vertical, horizontal, RAW, JPG — we love all of them.)
+    validations:
+      required: true
+
+  - type: input
+    id: gear
+    attributes:
+      label: Gear used
+      placeholder: e.g. Canon R5 + Pixel 8 Pro + USB-C cable
+
+  - type: input
+    id: links
+    attributes:
+      label: Links (optional)
+      description: Instagram / portfolio / YouTube / your app on the store
+      placeholder: https://...
+
+  - type: dropdown
+    id: feature
+    attributes:
+      label: May we feature your work?
+      options:
+        - "Yes — feel free to share on README, Twitter, etc. (with credit)"
+        - "Ask me first"
+        - "No, this is just for the community"
+    validations:
+      required: true

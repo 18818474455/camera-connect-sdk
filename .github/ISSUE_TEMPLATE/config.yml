@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Q&A and general help
+    url: https://github.com/18818474455/camera-connect-sdk/discussions/categories/q-a
+    about: Ask the community a question — best for "how do I…" or "is X supported"
+  - name: 🎨 Showcase your work
+    url: https://github.com/18818474455/camera-connect-sdk/discussions/categories/showcase
+    about: Share photos, projects, or apps built with Camera Connect SDK
+  - name: 💡 Ideas & feedback
+    url: https://github.com/18818474455/camera-connect-sdk/discussions/categories/ideas
+    about: Open-ended discussions about the future of the SDK
+  - name: 📧 Business / partnership
+    url: https://github.com/18818474455/camera-connect-sdk/discussions/categories/announcements
+    about: Reach out for commercial integration, OEM, or media inquiries

@@ -5,6 +5,14 @@
   ═══════════════════════════════════════════════════════════════════════
 -->
 
+<!-- ═══════════════ 语言切换 ═══════════════ -->
+
+<div align="right">
+
+**简体中文**　·　[**English**](./README_EN.md)
+
+</div>
+
 <!-- ═══════════════ 顶部动效波浪 ═══════════════ -->
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7C3AED&height=180&section=header&text=Camera%20Connect%20SDK&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Connect%20Anything.&descSize=20&descAlignY=62&animation=fadeIn)
@@ -53,6 +61,14 @@
 </p>
 
 <br/>
+
+<!-- ═══════════════ LIVE DEMO · 动画演示 ═══════════════ -->
+
+<img src="./assets/demo-flow.svg" alt="Live demo animation" width="720" />
+
+<sub>↑ <i>插线 → 识别 → 传输 → 完成。整个流程，8 秒看完。</i></sub>
+
+<br/><br/>
 
 <!-- ═══════════════ LIVE DEMO · 真实运行截图 ═══════════════ -->
 

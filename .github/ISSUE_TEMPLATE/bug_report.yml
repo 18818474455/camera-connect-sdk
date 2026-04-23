@@ -1,0 +1,92 @@
+name: "🐞 Bug Report"
+description: Report a reproducible problem with Camera Connect SDK
+title: "[Bug] "
+labels: ["bug", "triage"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to file a bug report! 🙏
+        Please fill out the sections below — the more detail, the faster we can fix it.
+
+  - type: input
+    id: sdk-version
+    attributes:
+      label: SDK / App version
+      description: e.g. `v1.0.0` (find it in the bottom of the demo app, or in your `pubspec.yaml`)
+      placeholder: v1.0.0
+    validations:
+      required: true
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      multiple: true
+      options:
+        - Android
+        - iOS
+    validations:
+      required: true
+
+  - type: input
+    id: device
+    attributes:
+      label: Phone / tablet model
+      placeholder: e.g. Pixel 8 Pro · Android 14
+    validations:
+      required: true
+
+  - type: input
+    id: camera
+    attributes:
+      label: Camera model
+      placeholder: e.g. Canon EOS R5 (firmware 1.9.0)
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear description of what went wrong.
+      placeholder: When I plugged in the camera, the app froze on the "Detecting..." screen for about 30 seconds, then went back to the home screen.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+      placeholder: The camera should be detected within 1-2 seconds and start syncing.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      value: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / screenshots / video (optional)
+      description: Drag and drop any relevant attachments here. For Android, `adb logcat` filtered to your app's package is gold.
+      render: shell
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have searched the existing issues and confirmed this is not a duplicate.
+          required: true
+        - label: I am using the latest released version of the SDK / demo app.
+          required: true

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0A0A"/>
+      <stop offset="100%" stop-color="#111118"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00D4FF"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1B6FE6"/>
+      <stop offset="100%" stop-color="#1057C2"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6"/>
+      <feOffset dx="0" dy="4" result="o"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.4"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="screenClip">
+      <rect x="270" y="50" width="180" height="320" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <rect width="720" height="420" fill="url(#bg)"/>
+  <g stroke="#1E1E26" stroke-width="0.5" opacity="0.6">
+    <path d="M0 60 H720 M0 120 H720 M0 180 H720 M0 240 H720 M0 300 H720 M0 360 H720"/>
+    <path d="M60 0 V420 M120 0 V420 M180 0 V420 M240 0 V420 M300 0 V420 M360 0 V420 M420 0 V420 M480 0 V420 M540 0 V420 M600 0 V420 M660 0 V420"/>
+  </g>
+
+  <g transform="translate(36,36)">
+    <circle r="8" cx="0" cy="0" fill="url(#brand)">
+      <animate attributeName="r" values="8;10;8" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="22" y="5" fill="#FFFFFF" font-size="14" font-weight="700" letter-spacing="2">CAMERA CONNECT SDK</text>
+    <text x="22" y="22" fill="#71717A" font-size="10" letter-spacing="1">LIVE DEMO &#183; v1.0.0</text>
+  </g>
+
+  <g transform="translate(40,140)">
+    <g opacity="0">
+      <text x="0" y="0" fill="#71717A" font-size="11" letter-spacing="2">STEP 01</text>
+      <text x="0" y="32" fill="#FFFFFF" font-size="26" font-weight="700">Plug in.</text>
+      <text x="0" y="58" fill="#A1A1AA" font-size="14">Insert any USB-C / OTG cable.</text>
+      <text x="0" y="92" fill="#FF4D6D" font-size="12" font-weight="600">&#9679; NOT CONNECTED</text>
+      <animate attributeName="opacity" values="0;1;1;0;0;0;0;0" keyTimes="0;0.04;0.22;0.27;0.3;0.6;0.85;1" dur="8s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0">
+      <text x="0" y="0" fill="#71717A" font-size="11" letter-spacing="2">STEP 02</text>
+      <text x="0" y="32" fill="#FFFFFF" font-size="26" font-weight="700">Detected.</text>
+      <text x="0" y="58" fill="#A1A1AA" font-size="14">Canon EOS R5 &#183; auto-paired in 0.4s.</text>
+      <text x="0" y="92" fill="#00D4FF" font-size="12" font-weight="600">&#9679; HANDSHAKING</text>
+      <animate attributeName="opacity" values="0;0;0;1;1;0;0;0" keyTimes="0;0.27;0.30;0.34;0.50;0.55;0.85;1" dur="8s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0">
+      <text x="0" y="0" fill="#71717A" font-size="11" letter-spacing="2">STEP 03</text>
+      <text x="0" y="32" fill="#FFFFFF" font-size="26" font-weight="700">Streaming.</text>
+      <text x="0" y="58" fill="#A1A1AA" font-size="14">Originals piping straight to gallery.</text>
+      <text x="0" y="92" fill="#7C3AED" font-size="12" font-weight="600">&#9679; 247 / 312 PHOTOS</text>
+      <animate attributeName="opacity" values="0;0;0;0;0;1;1;0" keyTimes="0;0.27;0.30;0.50;0.55;0.6;0.78;0.83" dur="8s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0">
+      <text x="0" y="0" fill="#71717A" font-size="11" letter-spacing="2">STEP 04</text>
+      <text x="0" y="32" fill="#FFFFFF" font-size="26" font-weight="700">Done.</text>
+      <text x="0" y="58" fill="#A1A1AA" font-size="14">312 frames in 7.4 seconds.</text>
+      <text x="0" y="92" fill="#22C55E" font-size="12" font-weight="600">&#10003; ALL SYNCED &#183; 0 LOST</text>
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;1;1;0" keyTimes="0;0.10;0.20;0.30;0.50;0.78;0.83;0.86;0.96;1" dur="8s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g>
+    <g transform="translate(180,205)" filter="url(#shadow)">
+      <rect x="-40" y="-25" width="80" height="50" rx="6" fill="#27272A" stroke="#3F3F46"/>
+      <circle cx="0" cy="0" r="14" fill="#0A0A0A" stroke="#52525B" stroke-width="2"/>
+      <circle cx="0" cy="0" r="9" fill="#18181B" stroke="#3F3F46"/>
+      <text x="0" y="-30" fill="#71717A" font-size="9" text-anchor="middle" letter-spacing="1">CAMERA</text>
+    </g>
+    <path d="M 220 205 Q 245 205, 270 210" stroke="#3F3F46" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <circle r="3" fill="#00D4FF" opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;0;1;1;0" keyTimes="0;0.27;0.30;0.50;0.55;0.6;0.83;0.85" dur="8s" repeatCount="indefinite"/>
+      <animateMotion dur="0.8s" repeatCount="indefinite" path="M 220 205 Q 245 205, 270 210"/>
+    </circle>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="262" y="42" width="196" height="336" rx="28" fill="#18181B" stroke="#27272A" stroke-width="2"/>
+    <rect x="270" y="50" width="180" height="320" rx="22" fill="#0A0A0A"/>
+    <circle cx="360" cy="60" r="3" fill="#27272A"/>
+  </g>
+
+  <g clip-path="url(#screenClip)">
+    <rect x="270" y="50" width="180" height="36" fill="url(#screen)"/>
+    <text x="280" y="73" fill="#FFFFFF" font-size="11" font-weight="600">&#8249; wotu camera connect</text>
+
+    <text x="280" y="100" fill="#3F3F46" font-size="9">&#9662; Upload</text>
+    <text x="328" y="100" fill="#3F3F46" font-size="9">&#9662; Live</text>
+    <text x="430" y="100" fill="#22C55E" font-size="9" text-anchor="end">&#9679; Sync</text>
+
+    <g opacity="0">
+      <rect x="280" y="115" width="160" height="56" rx="8" fill="#18181B" stroke="#27272A"/>
+      <rect x="290" y="124" width="38" height="38" rx="4" fill="#27272A"/>
+      <rect x="338" y="128" width="40" height="10" rx="5" fill="#3F3F46"/>
+      <text x="338" y="155" fill="#71717A" font-size="7">Insert USB cable</text>
+      <g transform="translate(360,260)">
+        <circle r="32" fill="none" stroke="#27272A" stroke-width="1.5"/>
+        <path d="M -10 -8 L 10 -8 L 10 8 L -10 8 Z" fill="none" stroke="#52525B" stroke-width="2"/>
+        <path d="M -14 0 L -10 0 M 14 0 L 10 0" stroke="#52525B" stroke-width="2"/>
+        <line x1="-22" y1="-22" x2="22" y2="22" stroke="#FF4D6D" stroke-width="2.5" stroke-linecap="round"/>
+      </g>
+      <text x="360" y="320" fill="#52525B" font-size="9" text-anchor="middle">Not connected</text>
+      <animate attributeName="opacity" values="0;1;1;0;0;0;0;0" keyTimes="0;0.04;0.22;0.27;0.3;0.6;0.85;1" dur="8s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0">
+      <rect x="280" y="115" width="160" height="56" rx="8" fill="#18181B" stroke="#00D4FF" stroke-opacity="0.4"/>
+      <rect x="290" y="124" width="38" height="38" rx="4" fill="#27272A"/>
+      <text x="338" y="138" fill="#FFFFFF" font-size="9" font-weight="600">Canon EOS R5</text>
+      <text x="338" y="152" fill="#00D4FF" font-size="7">Pairing...</text>
+      <g transform="translate(360,260)">
+        <circle r="20" fill="none" stroke="#00D4FF" stroke-width="2" filter="url(#glow)"/>
+        <circle r="20" fill="none" stroke="#00D4FF" stroke-width="1.5">
+          <animate attributeName="r" values="20;48" dur="1.4s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.8;0" dur="1.4s" repeatCount="indefinite"/>
+        </circle>
+        <circle r="20" fill="none" stroke="#00D4FF" stroke-width="1.5">
+          <animate attributeName="r" values="20;48" dur="1.4s" begin="0.7s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.8;0" dur="1.4s" begin="0.7s" repeatCount="indefinite"/>
+        </circle>
+        <g stroke="#00D4FF" stroke-width="1.8" fill="none">
+          <path d="M -8 -6 L 8 -6 L 8 6 L -8 6 Z"/>
+          <line x1="-12" y1="0" x2="-8" y2="0"/>
+          <line x1="12" y1="0" x2="8" y2="0"/>
+        </g>
+      </g>
+      <text x="360" y="328" fill="#00D4FF" font-size="9" text-anchor="middle">Detecting...</text>
+      <animate attributeName="opacity" values="0;0;0;1;1;0;0;0" keyTimes="0;0.27;0.30;0.34;0.50;0.55;0.85;1" dur="8s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0">
+      <rect x="280" y="115" width="160" height="42" rx="8" fill="#18181B" stroke="#7C3AED" stroke-opacity="0.4"/>
+      <rect x="290" y="122" width="28" height="28" rx="3" fill="#27272A"/>
+      <text x="328" y="134" fill="#FFFFFF" font-size="8" font-weight="600">Canon EOS R5</text>
+      <text x="328" y="146" fill="#A1A1AA" font-size="7">RAW + JPG &#183; streaming</text>
+
+      <g>
+        <rect x="280" y="170" width="36" height="36" rx="4" fill="#27272A"/>
+        <rect x="280" y="170" width="36" height="36" rx="4" fill="url(#brand)" opacity="0">
+          <animate attributeName="opacity" values="0;0;0;0;0;0;0.8;0.8" keyTimes="0;0.27;0.30;0.50;0.55;0.58;0.62;1" dur="8s" repeatCount="indefinite"/>
+        </rect>
+        <rect x="322" y="170" width="36" height="36" rx="4" fill="#27272A"/>
+        <rect x="322" y="170" width="36" height="36" rx="4" fill="url(#brand)" opacity="0">
+          <animate attributeName="opacity" values="0;0;0;0;0;0;0;0.8;0.8" keyTimes="0;0.27;0.30;0.50;0.55;0.6;0.65;0.68;1" dur="8s" repeatCount="indefinite"/>
+        </rect>
+        <rect x="364" y="170" width="36" height="36" rx="4" fill="#27272A"/>
+        <rect x="364" y="170" width="36" height="36" rx="4" fill="url(#brand)" opacity="0">
+          <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0.8;0.8" keyTimes="0;0.27;0.30;0.50;0.55;0.6;0.65;0.7;0.73;1" dur="8s" repeatCount="indefinite"/>
+        </rect>
+        <rect x="406" y="170" width="36" height="36" rx="4" fill="#27272A"/>
+
+        <rect x="280" y="212" width="36" height="36" rx="4" fill="#27272A"/>
+        <rect x="322" y="212" width="36" height="36" rx="4" fill="#27272A"/>
+        <rect x="364" y="212" width="36" height="36" rx="4" fill="#27272A"/>
+        <rect x="406" y="212" width="36" height="36" rx="4" fill="#27272A"/>
+      </g>
+
+      <text x="280" y="270" fill="#A1A1AA" font-size="9">Transferring...</text>
+      <text x="440" y="270" fill="#FFFFFF" font-size="9" text-anchor="end" font-weight="600">79%</text>
+      <rect x="280" y="278" width="160" height="4" rx="2" fill="#27272A"/>
+      <rect x="280" y="278" width="0" height="4" rx="2" fill="url(#brand)">
+        <animate attributeName="width" values="0;160" keyTimes="0;1" dur="1.5s" begin="4.4s" repeatCount="indefinite" fill="freeze"/>
+      </rect>
+
+      <g transform="translate(280,300)">
+        <text x="0" y="10" fill="#71717A" font-size="8">DONE</text>
+        <text x="0" y="24" fill="#22C55E" font-size="14" font-weight="700">247</text>
+        <text x="60" y="10" fill="#71717A" font-size="8">QUEUED</text>
+        <text x="60" y="24" fill="#7C3AED" font-size="14" font-weight="700">65</text>
+        <text x="120" y="10" fill="#71717A" font-size="8">FAILED</text>
+        <text x="120" y="24" fill="#FFFFFF" font-size="14" font-weight="700">0</text>
+      </g>
+      <animate attributeName="opacity" values="0;0;0;0;0;1;1;0" keyTimes="0;0.27;0.30;0.50;0.55;0.6;0.78;0.83" dur="8s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0">
+      <rect x="280" y="115" width="160" height="42" rx="8" fill="#18181B" stroke="#22C55E" stroke-opacity="0.4"/>
+      <rect x="290" y="122" width="28" height="28" rx="3" fill="#27272A"/>
+      <text x="328" y="134" fill="#FFFFFF" font-size="8" font-weight="600">Canon EOS R5</text>
+      <text x="328" y="146" fill="#22C55E" font-size="7">Sync complete</text>
+
+      <g transform="translate(360,250)">
+        <circle r="42" fill="none" stroke="#22C55E" stroke-width="2" opacity="0.3"/>
+        <circle r="32" fill="#22C55E" opacity="0.15"/>
+        <circle r="32" fill="none" stroke="#22C55E" stroke-width="2.5" filter="url(#glow)"/>
+        <path d="M -12 0 L -3 9 L 14 -10" stroke="#22C55E" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+
+      <text x="360" y="312" fill="#FFFFFF" font-size="13" font-weight="700" text-anchor="middle">312 frames &#183; 7.4s</text>
+      <text x="360" y="328" fill="#22C55E" font-size="9" text-anchor="middle">All originals &#183; zero loss</text>
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;1;1;0" keyTimes="0;0.10;0.20;0.30;0.50;0.78;0.83;0.86;0.96;1" dur="8s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g transform="translate(40,360)">
+    <text fill="#52525B" font-size="10" letter-spacing="1.5">&#9889; &lt; 1.5s</text>
+    <text x="80" fill="#52525B" font-size="10" letter-spacing="1.5">&#10022; 99.97% UPTIME</text>
+    <text x="220" fill="#52525B" font-size="10" letter-spacing="1.5">&#9673; 40+ MODELS</text>
+    <text x="20" y="22" fill="#3F3F46" font-size="9">github.com/18818474455/camera-connect-sdk</text>
+  </g>
+
+  <g transform="translate(680,36)">
+    <circle r="5" fill="#22C55E">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="-10" y="4" fill="#22C55E" font-size="9" text-anchor="end" letter-spacing="1.5">LIVE</text>
+  </g>
+</svg>

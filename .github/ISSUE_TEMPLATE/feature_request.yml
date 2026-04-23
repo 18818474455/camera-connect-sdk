@@ -1,0 +1,61 @@
+name: "✨ Feature Request"
+description: Suggest a new feature, camera model, or improvement
+title: "[Feature] "
+labels: ["enhancement", "needs-discussion"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea to make Camera Connect SDK better? Tell us about it!
+        For broad questions or "what if" thinking, please use [Discussions](https://github.com/18818474455/camera-connect-sdk/discussions) instead.
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type of request
+      options:
+        - New camera model support
+        - New feature in the SDK / demo app
+        - Performance improvement
+        - Developer experience (API, docs, examples)
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+      description: Describe the use case — what are you trying to do that the SDK can't currently do well?
+      placeholder: I'm shooting weddings with the Sony A1, but the SDK doesn't detect it...
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: Describe what you'd like to see happen.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Any workarounds or other approaches you've thought about?
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Screenshots, mockups, links to similar features in other tools, etc.
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have searched existing issues and discussions.
+          required: true
