@@ -40,4 +40,4 @@
 - [ ] My change follows the existing style of the codebase / README
 - [ ] I have updated the documentation where needed (README, README_EN, comments)
 - [ ] I have added myself to the contributors list (if first PR)
-- [ ] I have read the [Contributing guide](https://github.com/18818474455/camera-connect-sdk/blob/main/CONTRIBUTING.md) (if it exists 😉)
+- [ ] I have read the [Contributing guide](https://github.com/18818474455/camera-connect-sdk/blob/main/CONTRIBUTING.md)
