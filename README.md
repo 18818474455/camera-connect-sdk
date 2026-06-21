@@ -40,6 +40,12 @@
 
 **让每一台相机，都比相机本身更聪明**
 
+<p>
+  <a href="./docs/articles/android-camera-connect-sdk.md">
+    <strong>阅读技术文章：Android 相机直连 SDK 实战</strong>
+  </a>
+</p>
+
 <br/>
 
 <!-- ═══════════════ ANIMATED BADGES ═══════════════ -->
