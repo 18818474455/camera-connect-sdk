@@ -23,7 +23,7 @@ jobs:
 
       - name: Fetch live numbers
         id: fetch
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             const owner = '18818474455';
